@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "~/Workspace/optical_mat_utils/"
+    ]
+}
